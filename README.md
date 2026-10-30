@@ -17,6 +17,8 @@ This repository holds the engine and game source code  - the game first released
 
 
 ## Half-Life 2 Source SDK
+[https://archive.org/details/Half-Life-2-Retail-2153](https://archive.org/details/Half-Life-2-Retail-2153)
+
 [https://developer.valvesoftware.com/wiki/SDK_Docs](https://developer.valvesoftware.com/wiki/SDK_Docs)
 
 [https://developer.valvesoftware.com/wiki/Category:Tutorials](https://developer.valvesoftware.com/wiki/Category:Tutorials)
@@ -29,7 +31,10 @@ This repository holds the engine and game source code  - the game first released
 
 [Source SDK Tutorials](https://www.youtube.com/playlist?list=PL75652DF1118D02E8)
 
-[Hammer Source SDK Tutorials](https://www.youtube.com/watch?v=HO1-RDcoe5U&list=PLTK618TZXnmtwpHKG45BnpcgsP_Bom5B_)
+[Hammer Source SDK Tutorials](https://www.youtube.com/watch?v=HO1-RDcoe5U&list=PLTK618TZXnmtwpHKG45BnpcgsP_Bom5B)
+
+[![Half-Life-2-Retail-2153](https://raw.githubusercontent.com/igiteam/hl2-wolfschanze1944/refs/heads/main/Half-Life-2-Cover.png)](https://archive.org/details/Half-Life-2-Retail-2153)
+
 
 ## Wolfschanze 1944 Final Attempt
 [https://archive.org/details/wilczy-szaniec_202307](https://archive.org/details/wilczy-szaniec_202307)
