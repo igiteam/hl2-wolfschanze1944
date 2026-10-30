@@ -33,6 +33,8 @@ This repository holds the engine and game source code  - the game first released
 
 [Valve Source Code Tutorials Source SDK](https://www.youtube.com/watch?v=9MlmLvgkMiY&list=PL8tDEPB6h7Lk0YtRtt4k1h_Thgj1ZA2dX)
 
+[Dmmm Hammer++ Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFtaXhabLk389XzQkUjxgaB)
+
 [Source SDK Tutorials](https://www.youtube.com/playlist?list=PL75652DF1118D02E8)
 
 [Hammer Source SDK Tutorials](https://www.youtube.com/watch?v=HO1-RDcoe5U&list=PLTK618TZXnmtwpHKG45BnpcgsP_Bom5B)
