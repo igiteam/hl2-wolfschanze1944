@@ -14,3 +14,26 @@ This repository holds the engine and game source code  - the game first released
 
 ## Wiimote+Nunchuk, MX Mouse Keys, Xbox360 Controller
 [https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+
+## Half-Life 2 Source SDK
+[https://developer.valvesoftware.com/wiki/SDK_Docs](https://developer.valvesoftware.com/wiki/SDK_Docs)
+
+[https://developer.valvesoftware.com/wiki/Category:Tutorials](https://developer.valvesoftware.com/wiki/Category:Tutorials)
+
+[https://developer.valvesoftware.com/wiki/Category:Official_Source_Tools](https://developer.valvesoftware.com/wiki/Category:Official_Source_Tools)
+
+[Source SDK Basic Tutorials](https://www.youtube.com/playlist?list=PLPMNTlw4d_XmlZUE0ViwuX-mU0yHiy5no)
+
+[Valve Source Code Tutorials Source SDK](https://www.youtube.com/watch?v=9MlmLvgkMiY&list=PL8tDEPB6h7Lk0YtRtt4k1h_Thgj1ZA2dX)
+
+[Source SDK Tutorials](https://www.youtube.com/playlist?list=PL75652DF1118D02E8)
+
+[Hammer Source SDK Tutorials](https://www.youtube.com/watch?v=HO1-RDcoe5U&list=PLTK618TZXnmtwpHKG45BnpcgsP_Bom5B_)
+
+## Wolfschanze 1944 Final Attempt
+[https://archive.org/details/wilczy-szaniec_202307](https://archive.org/details/wilczy-szaniec_202307)
+
+[https://calaris.itch.io/wolfschanze-1944](https://calaris.itch.io/wolfschanze-1944)
+
+[![Wolfschanze 1944 The Final Attempt](https://img.youtube.com/vi/BjnFJWoTVi8/maxresdefault.jpg)](https://www.youtube.com/watch?v=BjnFJWoTVi8)
