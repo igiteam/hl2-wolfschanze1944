@@ -1,6 +1,4 @@
 # hl2-wolfschanze1944
-
-# hl2-wolfschanze1944
 ## Half-Life 2 — Wolfschanze 1944 Remake
 A total conversion project that fuses the open-world military sandbox of *Operation Flashpoint: Cold War Crisis* (2001) with the stealth-infiltration tension and close-quarters gunplay of *Project I.G.I.* (2000), built on the open-sourced Poseidon engine source.
 
