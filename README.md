@@ -11,6 +11,8 @@ This repository holds the engine and game source code  - the game first released
 ## Github Tree Api Direct JSON
 [https://api.github.com/repos/igiteam/hl2-wolfschanze1944/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/hl2-wolfschanze1944/git/trees/main?recursive=1)
 
+## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
 
 ## Wiimote+Nunchuk, MX Mouse Keys, Xbox360 Controller
 [https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
