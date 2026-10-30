@@ -1,6 +1,6 @@
 # hl2-wolfschanze1944
 ## Half-Life 2 — Wolfschanze 1944 Remake
-A total conversion project that fuses the open-world military sandbox of *Operation Flashpoint: Cold War Crisis* (2001) with the stealth-infiltration tension and close-quarters gunplay of *Project I.G.I.* (2000), built on the open-sourced Poseidon engine source.
+A total conversion project that rebuilds Wolfschanze 1944 on the Source engine, bringing the original's WWII setting and stealth-infiltration premise into the Half-Life 2 engine and toolset.
 
 ## Half-Life 2 Source SDK
 This repository holds the engine and game source code  - the game first released in 2004 as *Half-Life 2*. The code has been modernized to C++20, built with CMake and Clang, with cross-platform support for Windows x64 and Linux x64.
