@@ -10,3 +10,7 @@ This repository holds the engine and game source code  - the game first released
 
 ## Github Tree Api Direct JSON
 [https://api.github.com/repos/igiteam/hl2-wolfschanze1944/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/hl2-wolfschanze1944/git/trees/main?recursive=1)
+
+
+## Wiimote+Nunchuk, MX Mouse Keys, Xbox360 Controller
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
