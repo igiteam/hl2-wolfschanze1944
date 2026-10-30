@@ -48,3 +48,7 @@ This repository holds the engine and game source code  - the game first released
 [https://calaris.itch.io/wolfschanze-1944](https://calaris.itch.io/wolfschanze-1944)
 
 [![Wolfschanze 1944 The Final Attempt](https://img.youtube.com/vi/BjnFJWoTVi8/maxresdefault.jpg)](https://www.youtube.com/watch?v=BjnFJWoTVi8)
+
+[![Wolfschanze 1944 The Final Attempt](https://raw.githubusercontent.com/igiteam/hl2-wolfschanze1944/refs/heads/main/wolfschanze-1944-cover-calaris.png
+)](https://archive.org/details/wolfschanze-v-117-b-eng)
+
