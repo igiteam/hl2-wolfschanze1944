@@ -37,6 +37,8 @@ This repository holds the engine and game source code  - the game first released
 
 
 ## Wolfschanze 1944 Final Attempt
+[https://archive.org/details/wolfschanze-v-117-b-eng](https://archive.org/details/wolfschanze-v-117-b-eng)
+
 [https://archive.org/details/wilczy-szaniec_202307](https://archive.org/details/wilczy-szaniec_202307)
 
 [https://calaris.itch.io/wolfschanze-1944](https://calaris.itch.io/wolfschanze-1944)
