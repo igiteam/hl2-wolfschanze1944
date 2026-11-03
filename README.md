@@ -40,7 +40,7 @@ This repository holds the engine and game source code  - the game first released
 
 [Source SDK Tutorials](https://www.youtube.com/playlist?list=PL75652DF1118D02E8)
 
-[![Source SDK Tutorials](https://img.youtube.com/vi/ePuX1BTovLM/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PL75652DF1118D02E8)
+[![Source SDK Tutorials](https://img.youtube.com/vi/ePuX1BTovLM/hqsdefault.jpg)](https://www.youtube.com/playlist?list=PL75652DF1118D02E8)
 
 [![Half-Life-2-Retail-2153](https://raw.githubusercontent.com/igiteam/hl2-wolfschanze1944/refs/heads/main/Half-Life-2-Cover.png)](https://archive.org/details/Half-Life-2-Retail-2153)
 
