@@ -29,12 +29,15 @@ This repository holds the engine and game source code  - the game first released
 
 [https://developer.valvesoftware.com/wiki/Category:Official_Source_Tools](https://developer.valvesoftware.com/wiki/Category:Official_Source_Tools)
 
+[https://github.com/ZeqMacaw/Crowbar](https://github.com/ZeqMacaw/Crowbar)
+
+[https://github.com/igiteam/source-sdk-2013](https://github.com/igiteam/source-sdk-2013)
+
 [Source SDK Basic Tutorials](https://www.youtube.com/playlist?list=PLPMNTlw4d_XmlZUE0ViwuX-mU0yHiy5no)
 
 [Valve Source Code Tutorials Source SDK](https://www.youtube.com/watch?v=9MlmLvgkMiY&list=PL8tDEPB6h7Lk0YtRtt4k1h_Thgj1ZA2dX)
 
 [Dmmm Hammer++ Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFtaXhabLk389XzQkUjxgaB)
-
 
 [Hammer Source SDK Tutorials](https://www.youtube.com/watch?v=HO1-RDcoe5U&list=PLTK618TZXnmtwpHKG45BnpcgsP_Bom5B)
 
